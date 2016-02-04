@@ -1,0 +1,17 @@
+{
+  "name": "RadialProgress",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yaroslav-dudar/RadialProgress",
+  "authors": [
+    "Yaroslav <flayingfog@gmail.com>"
+  ],
+  "description": "RadialProgress js package",
+  "main": "radialProgress.js",
+  "dependencies": {
+    "d3": "3.5.3"
+  },
+  "keywords": [
+    "d3"
+  ],
+  "license": "MIT"
+}
